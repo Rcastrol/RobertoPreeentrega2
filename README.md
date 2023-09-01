@@ -1,2 +1,2 @@
-# segunda-entrega-backend32190
-Segunda entrega proyecto de curso backend Coderhouse 2022
+# segunda-entrega
+Segunda entrega proyecto de curso backend Coderhouse 2023
